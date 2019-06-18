@@ -1,6 +1,7 @@
 {
   "name": "magentoese/b2b-order-approval-process",
   "description": "",
+  "version": "1.0.0",
   "require": {
     "php": "~7.1.0|~7.2.0",
     "accorin/module-orderapprovals":"*"
